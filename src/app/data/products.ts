@@ -397,7 +397,28 @@ export const products: Product[] = [
   "inStock": true,
   "featured": false,
   "badge": "TRENDING"
-}
+},
+  {
+  "id": "1773904641339-wrpz5xb",
+  "name": "tshirt",
+  "description": "gym tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/27fe83bd-1eb0-4724-b066-9e702f707b38.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/27fe83bd-1eb0-4724-b066-9e702f707b38.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "SALE"
+}s
 ];
 
 export const categories = [
