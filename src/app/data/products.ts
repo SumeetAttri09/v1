@@ -36,28 +36,7 @@ export interface Product {
 export const products: Product[] = [
  
 
-  
-  {
-  "id": "1773859395242-v3fz72o",
-  "name": "KAASHVI JENIKA Red Ethnic Suit",
-  "description": "Dresses\nGorgeous red ethnic suit from KAASHVI JENIKA collection with exquisite embroidery work. Features elegant V-neck design with intricate threadwork and sequin embellishments. Complete 3-piece set includes beautifully crafted kurta with embroidered sleeves, matching bottom, and dupatta. Premium fabric with comfortable fit. Perfect for festivals, weddings, parties, and traditional celebrations.",
-  "price": 1000.01,
-  "originalPrice": 2000,
-  "image": "https://yelling-emerald-hcszhyuxdt.edgeone.app/0cb50fcbd05fb70c1b3e5c22fa422bae2a72fd2b.png",
-  "images": [
-    "https://yelling-emerald-hcszhyuxdt.edgeone.app/0cb50fcbd05fb70c1b3e5c22fa422bae2a72fd2b.png"
-  ],
-  "category": "Outerwear",
-  "sizes": [
-    "XS",
-    "S",
-    "L",
-    "M"
-  ],
-  "inStock": true,
-  "featured": true,
-  "badge": "NEW"
-}
+
 ];
 
 export const categories = [
