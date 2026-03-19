@@ -381,6 +381,27 @@ export const products: Product[] = [
   "inStock": true,
   "featured": false,
   "badge": "NEW"
+},
+{
+  "id": "1773922242904-qjzyvh7",
+  "name": "suit",
+  "description": "Ladies suit",
+  "price": 1200,
+  "originalPrice": 1500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/9f5a7aaf-c68f-47f1-8aa8-f29e0bc06e15.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/9f5a7aaf-c68f-47f1-8aa8-f29e0bc06e15.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
 }
 ];
 
