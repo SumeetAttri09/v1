@@ -215,6 +215,172 @@ export const products: Product[] = [
   ],
   "inStock": true,
   "featured": false
+},
+{
+  "id": "1773909832907-yvu4yuh",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/054eac95-dfd7-43e7-aa61-fafdd03b6459.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/054eac95-dfd7-43e7-aa61-fafdd03b6459.jpeg",
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/0cd4f57f-8df0-4e22-846a-cb1afe2ba337.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+},
+{
+  "id": "1773909870275-pvw0zf2",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/168847c7-d453-48c1-b95a-1203755e3eff.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/168847c7-d453-48c1-b95a-1203755e3eff.jpeg",
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/df5f4f4b-1ac5-48dd-b036-e7d046224524.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+},
+{
+  "id": "1773909905077-g7p5k1d",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/b72e96fd-e1be-473e-9624-0efae8d168b2.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/b72e96fd-e1be-473e-9624-0efae8d168b2.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+},
+{
+  "id": "1773909959688-uhuwc9q",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/8ba9ce57-1540-406f-b435-24b9fdc18e1f.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/8ba9ce57-1540-406f-b435-24b9fdc18e1f.jpeg",
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/f29436f6-922e-4dba-8df8-c40a3f6ae3a7.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+},
+{
+  "id": "1773909991006-iwm31oa",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/9b946ded-4367-46f9-b97b-57a57b659b31.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/9b946ded-4367-46f9-b97b-57a57b659b31.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+},
+{
+  "id": "1773910043322-yo158ub",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/9144e4d7-2b87-46cb-bbb0-25f284fcb19a.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/9144e4d7-2b87-46cb-bbb0-25f284fcb19a.jpeg",
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/6b6c752e-f140-4914-b220-8ee399b85030.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+},
+{
+  "id": "1773910090372-r443b1y",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/02fb5154-ba13-440b-a695-792111ce1b14.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/02fb5154-ba13-440b-a695-792111ce1b14.jpeg",
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/6b6c752e-f140-4914-b220-8ee399b85030.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+},
+{
+  "id": "1773910132586-8q775xd",
+  "name": "Suit",
+  "description": "Ladies suit",
+  "price": 745,
+  "originalPrice": 800,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/0e994f24-4120-4e99-ae95-a87b1b721ee3.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/0e994f24-4120-4e99-ae95-a87b1b721ee3.jpeg",
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/83db1028-642f-439c-8d2a-443a335c1940.jpeg"
+  ],
+  "category": "Dresses",
+  "sizes": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
 }
 ];
 
