@@ -378,6 +378,26 @@ export const products: Product[] = [
     featured: true,
     badge: 'NEW',
   },
+  {
+  "id": "1773901952392-7rvoxjk",
+  "name": "Nauwar",
+  "description": "children saree",
+  "price": 800,
+  "originalPrice": 1500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/5bd3e225-eaf1-485e-ad32-2910eeb633a3.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/5bd3e225-eaf1-485e-ad32-2910eeb633a3.jpeg"
+  ],
+  "category": "Sarees",
+  "sizes": [
+    "XS",
+    "S",
+    "M"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "TRENDING"
+}
 ];
 
 export const categories = [
