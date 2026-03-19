@@ -418,7 +418,7 @@ export const products: Product[] = [
   "inStock": true,
   "featured": false,
   "badge": "SALE"
-}s
+},
 ];
 
 export const categories = [
