@@ -54,9 +54,208 @@ export const products: Product[] = [
   "featured": false,
   "badge": "NEW"
 },
-  
+{
+  "id": "1773908205794-n2nfl64",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/27fe83bd-1eb0-4724-b066-9e702f707b38.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/27fe83bd-1eb0-4724-b066-9e702f707b38.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908240440-4nouaqu",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/e0502cd7-70ec-4c4c-b687-d1d8e6c4c3e9.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/e0502cd7-70ec-4c4c-b687-d1d8e6c4c3e9.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908240440-4nouaqu",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/e0502cd7-70ec-4c4c-b687-d1d8e6c4c3e9.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/e0502cd7-70ec-4c4c-b687-d1d8e6c4c3e9.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908295244-4mji5s7",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/045503c6-2f6e-421f-862a-9d1bd1679aca.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/045503c6-2f6e-421f-862a-9d1bd1679aca.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908314401-73dmtwe",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/045503c6-2f6e-421f-862a-9d1bd1679aca.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/045503c6-2f6e-421f-862a-9d1bd1679aca.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908358089-brvqoe8",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/d9f42717-c7ba-4ca8-acce-bbc93d007f12.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/d9f42717-c7ba-4ca8-acce-bbc93d007f12.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908382764-fdmm7on",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/5be95769-d468-4c97-b32d-67383485d0e5.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/5be95769-d468-4c97-b32d-67383485d0e5.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908403377-6aj0h3o",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/398cdb44-0fd0-458a-9bb2-044741ed0b54.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/398cdb44-0fd0-458a-9bb2-044741ed0b54.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
+{
+  "id": "1773908439440-dpcnwvt",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/d08858fd-c8a1-4f07-be4c-98e7dac91284.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/d08858fd-c8a1-4f07-be4c-98e7dac91284.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+},
 
 
+{
+  "id": "1773908466737-lrjy8xm",
+  "name": "Tshirt",
+  "description": "GYM tshirt",
+  "price": 300,
+  "originalPrice": 500,
+  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/95e57f60-d26d-446c-8b17-a9d2b0f7c23f.jpeg",
+  "images": [
+    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/95e57f60-d26d-446c-8b17-a9d2b0f7c23f.jpeg"
+  ],
+  "category": "T-Shirts",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false
+}
 ];
 
 export const categories = [
