@@ -75,26 +75,6 @@ export const products: Product[] = [
   "featured": false
 },
 {
-  "id": "1773908295244-4mji5s7",
-  "name": "Tshirt",
-  "description": "GYM tshirt",
-  "price": 300,
-  "originalPrice": 500,
-  "image": "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/045503c6-2f6e-421f-862a-9d1bd1679aca.jpeg",
-  "images": [
-    "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/045503c6-2f6e-421f-862a-9d1bd1679aca.jpeg"
-  ],
-  "category": "T-Shirts",
-  "sizes": [
-    "S",
-    "M",
-    "L",
-    "XL"
-  ],
-  "inStock": true,
-  "featured": false
-},
-{
   "id": "1773908314401-73dmtwe",
   "name": "Tshirt",
   "description": "GYM tshirt",
