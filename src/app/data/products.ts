@@ -50,7 +50,7 @@ export const products: Product[] = [
     "S",
     "M",
     "L",
-    "XL
+    "XL"
   ],
   "inStock": true,
   "featured": false,
